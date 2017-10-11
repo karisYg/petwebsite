@@ -5,19 +5,19 @@
 ### By KarisYg kariukipeter30@gmail.com
 
 
-####Description
+##Description
 
 The project is web based and is just a simple webpage for max ... from the 
 character of the movie {simple life of Pets }
 
 
 
-####Setup/ Installation
+##Setup/ Installation
 after cloning folder to your computer
 open the index.html file using any suitable web browser
 
 
-####Technologies used
+##Technologies used
 
 Simple HTML 
 Css
