@@ -17,5 +17,20 @@ span.name{
 	color: green;
 	font-style: italic;
 	font-size: 25px;
-	position: absolute;
+	
+}
+ol{
+	margin: 10px;
+	list-style: circle;
+	font-family: sans-serif;
+
+}
+h2{
+	font-size: 20px;
+	color: blue;
+	font-weight: 200;
+
+}
+ul{
+	list-style: decimal;
 }
