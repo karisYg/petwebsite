@@ -33,4 +33,17 @@ h2{
 }
 ul{
 	list-style: decimal;
+	font-style: italic;
+}
+p{
+	padding: 10px;
+	margin-bottom: 30px;
+	color: green;
+	font-size: 21px;
+}
+strong{
+	text-align: center;
+	color: red;
+	font-size: 35px;
+	
 }
