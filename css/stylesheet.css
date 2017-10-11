@@ -1,0 +1,21 @@
+div#container{
+	width: 600px;
+	margin: 0px auto;
+}
+h1#bree{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: blue;
+	text-align: center;
+}
+img.pet{
+	width: 500px;
+	height: 300px;
+	margin: 0px auto;
+}
+span.name{
+	color: green;
+	font-style: italic;
+	font-size: 25px;
+	position: absolute;
+}
